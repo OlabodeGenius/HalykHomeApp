@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Halyk</string>
+    <string name="currency_value1">472.13 - 482.10</string>
+    <string name="cards">Cards</string>
+    <string name="deposits">Deposits</string>
+    <string name="Loans">Loans</string>
+    <string name="installment">Installment</string>
+    <string name="kino_kz">Kino.kz</string>
+    <string name="travel">Travel</string>
+    <string name="insurance">Insurance</string>
+    <string name="market">Market</string>
+    <string name="info">Info</string>
+    <string name="gov_service">Gov.service</string>
+    <string name="invest">Invest</string>
+    <string name="qr_code">QR</string>
+    <string name="bonus">Bonus</string>
+</resources>
